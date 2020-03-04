@@ -9,5 +9,6 @@ Extract all videos names, views and links from a youtube channel, sorting them i
 
 # Output Files
 After running the code, a *CSV* file will be created with all videos sorted by number of views as the image below:
+
 ![image](https://user-images.githubusercontent.com/56649205/75836147-ace39280-5d9f-11ea-9bd2-64b3da4a3a5b.png)
 
