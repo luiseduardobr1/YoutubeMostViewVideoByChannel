@@ -12,3 +12,8 @@ After running the code, a *CSV* file will be created with all videos sorted by n
 
 ![image](https://user-images.githubusercontent.com/56649205/75836147-ace39280-5d9f-11ea-9bd2-64b3da4a3a5b.png)
 
+OBS: Depending of the user language, may be necessary change the "visualizações" term to the respective translation (in english, visualization) in code:
+```Python
+numero_visualizacoes= ''.join(re.findall(r'([0-9.]*) visualizações', label))
+```
+
